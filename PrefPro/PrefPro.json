@@ -1,0 +1,14 @@
+{
+  "Author": "cinnamon",
+  "Name": "PrefPro (testing edition)",
+  "InternalName": "PrefPro",
+  "AssemblyVersion": "1.4.1.1",
+  "Description": "A fork of PrefPro to hopefully include they/them pronouns.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "ImageUrls": [
+  ],
+  "IconUrl": "https://github.com/0v7/PrefPro/blob/main/images/icon.png",
+  "Punchline": "owo for your chat"
+}
