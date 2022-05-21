@@ -1,6 +1,6 @@
 {
   "Author": "cinnamon",
-  "Name": "PrefPro (testing edition)",
+  "Name": "PrefPro2",
   "InternalName": "PrefPro",
   "AssemblyVersion": "1.4.1.1",
   "Description": "A fork of PrefPro to hopefully include they/them pronouns.",
@@ -10,5 +10,5 @@
   "ImageUrls": [
   ],
   "IconUrl": "https://github.com/0v7/PrefPro/blob/main/images/icon.png",
-  "Punchline": "owo for your chat"
+  "Punchline": "they/them is used by NPCs so why not PCs?"
 }
